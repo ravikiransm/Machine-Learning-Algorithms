@@ -1,5 +1,5 @@
-# Machine-Learning
-### Performance of machine learning algorithms
+# Machine-Learning 
+###  Machine learning algorithms 
     Logistic regression
     SVC
     GBM
@@ -7,4 +7,8 @@
     Random Forest
     KNN
     NB
+### Feature selection techniques
+    L1-Based feature selection
+    Tree Based feature selection
+    
 ### dataset=Human activity prediction(multi class)
